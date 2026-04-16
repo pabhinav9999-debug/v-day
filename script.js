@@ -11,7 +11,7 @@ const gifStages = [
 
 const noMessages = [
     "No,pandi",
-    "Are you positive? 🤔",
+    "Are you positive? REDDY ani gudda balupu ah 🤔",
     "Pookie please...barre 🥺",
     "If you say no, I will be really sad...",
     "I will be very sad...nuvu line la undu ra nuvu line undu 😢",
