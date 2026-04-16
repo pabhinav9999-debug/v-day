@@ -10,7 +10,7 @@ const gifStages = [
 ]
 
 const noMessages = [
-    "No,pandi",
+    "No,jaffa",
     "Are you positive? REDDY ani gudda balupu ah 🤔",
     "Pookie please...barre 🥺",
     "If you say no, I will be really sad...",
@@ -22,10 +22,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
-    "you're missing out 😈",
-    "click no, I dare you 😏"
+    " ninnu first eh 'yes'  evad ottu mannadu papam ma ashu feel ayithadi😏",
+    "go on, hit no... just once nenu nivvi kadu okasari no ottu 👀",
+    " endey nenu vadu  anukuntunnava anni yes ottuthunnav 😈",
+    " no otaka pothe nuvu lesbian 😏"
 ]
 
 let yesTeasedCount = 0
